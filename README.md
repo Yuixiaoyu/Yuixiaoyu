@@ -14,7 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## 我是xiaoyu
+  一个从专科生准备去一路逆袭到研究生的少年，很开心你能认识我🤝科班出身目前已经做了一个基于Redis的分布式缓存+定时任务的系统 现阶段正在备战26考研，一起加油⛽，祝愿我们一战成硕💯💯💯
+## 专业技能
+  熟悉 Java 特性，如集合类、自定义注解、异常处理、Lambda 编程等;
+  熟悉List、HashMap、HashSet等底层实现原理
+  熟悉Mysql数据库有自定义索引的性能优化实践，同时了解数据库底层数据结构（B+ Tree）的实现原理
+  熟悉缓存设计，能够熟练使用Redis缓存，了解各种缓存穿透、缓存击穿、缓存雪崩的解决办法，同时还了解分布式缓存一致性问题以及redis可重入锁的原理
+## 技术栈📋
+  ✅SpringBoot
+  ✅Redis
+  ✅Linux
+  ✅MySql
+  ✅Nacos
+  ✅Vue
+  ✅Docker
+## 待学习🧑‍💻
+  📌SpringCloud
+  📌Elasticsearch
+  📌Rabbit MQ消息队列
+  📌Netty
+  📌Dubbo
+  📌CI/CD
+  📌JVM
+  📌Kafka
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Yuixiaoyu&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
