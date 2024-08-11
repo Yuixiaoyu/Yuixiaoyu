@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/Yuixiaoyu/">
-    <img src="https://skillicons.dev/icons?i=git,docker,spring,java,c,linux,nginx&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,docker,spring,java,c,linux,vue&theme=light" />
   </a>
 </p>
