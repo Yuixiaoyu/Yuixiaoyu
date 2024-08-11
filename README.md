@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Yuixiaoyu&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+
+
+<p align="center">
+  <a href="https://github.com/Yuixiaoyu/">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
