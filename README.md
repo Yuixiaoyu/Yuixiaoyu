@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Yuixiaoyu&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 
 
+[![我的技能](https://skillicons.dev/icons?i=js,git,androidstudio,docker,java,c,css,HTML,linux,nginx,spring framework&theme=light)](https://skillicons.dev)
+
 <p align="center">
   <a href="https://github.com/Yuixiaoyu/">
     <img src="https://skillicons.dev/icons?i=git,androidstudio,docker,java,c,css,HTML,linux,nginx,spring framework&theme=light" />
