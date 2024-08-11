@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/Yuixiaoyu/">
-    <img src="https://skillicons.dev/icons?i=git,androidstudio,docker,Java,c,css,HTML,IntelliJ IDEA,JavaScript,Linux,NGINX,Node.js,Spring Framework" />
+    <img src="https://skillicons.dev/icons?i=git,androidstudio,docker,java,c,css,HTML,JavaScript,Linux,NGINX,Node.js,Spring Framework" />
   </a>
 </p>
