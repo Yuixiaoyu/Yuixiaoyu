@@ -14,14 +14,23 @@
 
 ## 技术栈📋
   ✅SpringBoot 
+  
   ✅Redis
+  
   ✅Linux
+  
   ✅MySql 
+  
   ✅Nacos 
+  
   ✅Vue 
+  
   ✅Docker 
+  
   ✅SpringCloud 
+  
   ✅Elasticsearch 
+  
   ✅Rabbit MQ消息队列 
 
 ## 待学习🧑‍💻
